@@ -1,0 +1,8 @@
+name: LandClaimPlugin
+version: 1.0
+main: com.example.Main
+api-version: 1.16
+commands:
+  claim:
+    description: Beansprucht ein Gebiet oder verwalte Mitglieder
+    usage: /claim [add|remove|delete]
